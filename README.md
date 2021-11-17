@@ -1,2 +1,2 @@
-# Shortest-Travel-Path
-Travelling path using Javascript
+# CBFriendsCost
+CB Project
